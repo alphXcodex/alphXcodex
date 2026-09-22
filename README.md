@@ -2,51 +2,56 @@
 
 ### B.Tech CSE Student | Learning by Building
 
-I'm a Computer Science student focused on strengthening my programming
-fundamentals and learning software development through practical projects.
+I'm a Computer Science student currently building my programming
+fundamentals and exploring software development through practical learning
+and small projects.
 
-## 👨‍💻 Currently Learning
+## 📚 Currently Learning
 
-- C and python 
+- C Programming
+- Python
 - Data Structures & Algorithms
 - Git & GitHub
-- Computer Science fundamentals
+- Computer Science Fundamentals
 
-## 🛠️ Skills
+## 🛠️ Current Skills
 
-**Languages**
-- C
-- Python 
+### Programming
+- C — Beginner
+- Python — Beginner
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Arch Linux
+### Computer Science
+- Data Structures & Algorithms — Beginner
+- Computer Science Fundamentals — Beginner
+
+### Tools
+- Git — Beginner
+- GitHub — Beginner
 
 ## 🔨 What I'm Working On
 
-- Strengthening my programming fundamentals
-- Practicing Data Structures & Algorithms
-- Building small projects and learning to understand real-world problems
-  and design practical solutions
-- Improving my communication skills
-
+- Strengthening programming fundamentals
+- Practicing problem solving
+- Learning Data Structures & Algorithms
+- Building small projects
+- Learning Git and GitHub
 
 ## 🎯 Interests
 
 - Software Development
 - Problem Solving
 - Computer Science
-- Arch Linux 
-- system customization 
+- Linux
 
-## 📚 Current Focus
+## 🌱 My Learning Approach
 
 > Learn → Build → Break → Debug → Improve
 
+I'm currently focused on building a strong foundation
+before moving into more advanced technologies.
+
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 
 [GitHub](https://github.com/alphXcodex)
