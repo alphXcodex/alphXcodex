@@ -1,6 +1,6 @@
 # Hi, I'm Chandan 👋
 
-### B.Tech CSE Student Learning by Building| Developer in Progress
+### B.Tech CSE Student | Learning by Building
 
 I'm a Computer Science student focused on strengthening my programming
 fundamentals and learning software development through practical projects.
