@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Chandan 👋
 
-<!--
-**alphXcodex/alphXcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student Learning by Building| Developer in Progress
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on strengthening my programming
+fundamentals and learning software development through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Currently Learning
+
+- C and python 
+- Data Structures & Algorithms
+- Git & GitHub
+- Computer Science fundamentals
+
+## 🛠️ Skills
+
+**Languages**
+- C
+- Python 
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Arch Linux
+
+## 🔨 What I'm Working On
+
+- Strengthening my programming fundamentals
+- Practicing Data Structures & Algorithms
+- Building small projects and learning to understand real-world problems
+  and design practical solutions
+- Improving my communication skills
+
+
+## 🎯 Interests
+
+- Software Development
+- Problem Solving
+- Computer Science
+- Arch Linux 
+- system customization 
+
+## 📚 Current Focus
+
+> Learn → Build → Break → Debug → Improve
+
+---
+
+### 📫 Let's Connect
+
+[GitHub](https://github.com/alphXcodex)
