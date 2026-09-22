@@ -17,16 +17,16 @@ and small projects.
 ## 🛠️ Current Skills
 
 ### Programming
-- C — Beginner
-- Python — Beginner
+- C
+- Python
 
 ### Computer Science
-- Data Structures & Algorithms — Beginner
-- Computer Science Fundamentals — Beginner
+- Data Structures & Algorithms
+- Computer Science Fundamentals
 
 ### Tools
-- Git — Beginner
-- GitHub — Beginner
+- Git
+- GitHub
 
 ## 🔨 What I'm Working On
 
