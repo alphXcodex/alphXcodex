@@ -35,7 +35,7 @@ A command-line expense tracker built with Python.
 ## Connect
 
 - **GitHub:** [@alphXcodex](https://github.com/alphXcodex)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** [Chandan Maurya](https://www.linkedin.com/in/chandan-maurya-3b15a2446/)
 
 ---
 
