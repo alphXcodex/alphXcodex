@@ -1,5 +1,5 @@
-### Hi, I'm Chandan Maurya
-## B.Tech Computer Science and Engineering Student | Aspiring Software
+Hi, I'm Chandan Maurya
+B.Tech Computer Science and Engineering Student | Aspiring Software
 Engineer
 
 I'm a Computer Science student at Maharana Pratap Institute of
@@ -9,26 +9,26 @@ projects.
 
 I enjoy understanding how programs work, solving problems, and turning
 ideas into practical applications.
-##Technical Skills
+Technical Skills
 - Programming: Python, C
 - Web fundamentals: HTML, CSS
 - Tools: Git, GitHub
 - Currently strengthening: Data Structures and Algorithms,
   programming fundamentals, and problem-solving
-##Projects
+Projects
 Personal Expense Tracker
 A command-line expense tracker built with Python.
 - Helps record and manage personal expenses.
 - Uses JSON for storing expense data.
 - Built to practise Python programming and file handling.
-View
+View the Personal Expense Tracker
 repository
-##Current Focus
+Current Focus
 - Improving my Python and C programming skills.
 - Practising Data Structures and Algorithms.
 - Building projects that apply what I learn.
 - Exploring software engineering and backend development.
-##Connect
+Connect
 - GitHub: @alphXcodex
-- LinkedIn: \(Add your LinkedIn profile URL\)
+- LinkedIn: Add your LinkedIn profile URL here.
 Learning, building, and improving one project at a time.
