@@ -1,32 +1,34 @@
-Chandan Maurya
-B.Tech CSE student · Aspiring Software Engineer · Class of 2029
+### Hi, I'm Chandan Maurya
+## B.Tech Computer Science and Engineering Student | Aspiring Software
+Engineer
 
-I'm a computer science undergraduate building my programming foundation
-through coursework, independent learning, and practical projects. I'm
-interested in software development, problem-solving, and understanding
-how software works.
-Technical skills
+I'm a Computer Science student at Maharana Pratap Institute of
+Technology, Gorakhpur, graduating in 2029. I'm building my software
+development skills through coursework, regular practice, and small
+projects.
+
+I enjoy understanding how programs work, solving problems, and turning
+ideas into practical applications.
+##Technical Skills
 - Programming: Python, C
 - Web fundamentals: HTML, CSS
 - Tools: Git, GitHub
-- Other interests: Data Structures and Algorithms, Linux, software
-  engineering
-Projects
+- Currently strengthening: Data Structures and Algorithms,
+  programming fundamentals, and problem-solving
+##Projects
 Personal Expense Tracker
-A command-line expense-tracking application built with Python. It uses
-JSON for local data storage.
-- Add and manage expense records.
-- Organize expenses by category.
-- Store data locally in JSON.
-- Includes input validation and error handling.
-View the
+A command-line expense tracker built with Python.
+- Helps record and manage personal expenses.
+- Uses JSON for storing expense data.
+- Built to practise Python programming and file handling.
+View
 repository
-Currently learning
-- Strengthening Python and C fundamentals
-- Practising Data Structures and Algorithms
-- Building and improving practical software projects
-- Exploring software development and backend concepts
-Connect
+##Current Focus
+- Improving my Python and C programming skills.
+- Practising Data Structures and Algorithms.
+- Building projects that apply what I learn.
+- Exploring software engineering and backend development.
+##Connect
 - GitHub: @alphXcodex
-- LinkedIn: Add your LinkedIn profile URL here
-Learn · Build · Debug · Improve
+- LinkedIn: \(Add your LinkedIn profile URL\)
+Learning, building, and improving one project at a time.
